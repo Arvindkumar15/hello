@@ -5,12 +5,6 @@
 //     int *j;
 //     j = &i;
     
-//     printf("Address of i = %u\n",&i);
-//     printf("Address of i = %u\n",j);
-//     printf("Address of j = %u\n",&j);
-//     printf("Value i = %d \n",i);
-//     printf("Value i = %d \n",*(&i));
-//     printf("Value i = %d \n",*j);
 
 // return 0;
 // }
